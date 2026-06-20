@@ -1,0 +1,62 @@
+[
+  {
+    "id": "prod-001",
+    "name": "iPhone 15 Pro",
+    "price": 999,
+    "category": "Phones",
+    "stock": 42,
+    "description": "Experience the next generation of iPhone with the titanium design, A17 Pro chip, and a pro camera system that shoots 4K ProRes video.",
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "createdAt": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": "prod-002",
+    "name": "Samsung Galaxy S24 Ultra",
+    "price": 1199,
+    "category": "Phones",
+    "stock": 28,
+    "description": "The Galaxy S24 Ultra features a built-in S Pen, 200MP camera, and the most powerful Galaxy AI experience ever.",
+    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "createdAt": "2024-01-20T10:00:00Z"
+  },
+  {
+    "id": "prod-003",
+    "name": "MacBook Air M3",
+    "price": 1299,
+    "category": "Laptops",
+    "stock": 15,
+    "description": "MacBook Air with M3 chip brings you a strikingly thin design, exceptional performance, and up to 18 hours of battery life.",
+    "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "createdAt": "2024-02-01T10:00:00Z"
+  },
+  {
+    "id": "prod-004",
+    "name": "Dell XPS 15",
+    "price": 1849,
+    "category": "Laptops",
+    "stock": 10,
+    "description": "The XPS 15 packs professional-grade performance with a gorgeous OLED display, perfect for creators and power users.",
+    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "createdAt": "2024-02-10T10:00:00Z"
+  },
+  {
+    "id": "prod-005",
+    "name": "Sony WH-1000XM5",
+    "price": 348,
+    "category": "Accessories",
+    "stock": 65,
+    "description": "Industry-leading noise canceling headphones with crystal-clear call quality and up to 30 hours of battery life.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "createdAt": "2024-02-15T10:00:00Z"
+  },
+  {
+    "id": "prod-006",
+    "name": "Apple Watch Ultra 2",
+    "price": 799,
+    "category": "Accessories",
+    "stock": 20,
+    "description": "The most rugged and capable Apple Watch with the most accurate GPS, a 60-hour battery life, and the brightest display.",
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "createdAt": "2024-02-20T10:00:00Z"
+  }
+]

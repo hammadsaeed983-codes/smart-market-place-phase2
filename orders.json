@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ord-001",
+    "customerId": "cust-001",
+    "customerName": "Alice Johnson",
+    "customerEmail": "alice@example.com",
+    "items": [
+      { "productId": "prod-001", "name": "iPhone 15 Pro", "price": 999, "quantity": 1 },
+      { "productId": "prod-005", "name": "Sony WH-1000XM5", "price": 348, "quantity": 1 }
+    ],
+    "subtotal": 1347,
+    "tax": 67.35,
+    "total": 1414.35,
+    "status": "Delivered",
+    "createdAt": "2024-03-01T14:22:00Z"
+  },
+  {
+    "id": "ord-002",
+    "customerId": "cust-002",
+    "customerName": "Bob Martinez",
+    "customerEmail": "bob@example.com",
+    "items": [
+      { "productId": "prod-003", "name": "MacBook Air M3", "price": 1299, "quantity": 1 }
+    ],
+    "subtotal": 1299,
+    "tax": 64.95,
+    "total": 1363.95,
+    "status": "Processing",
+    "createdAt": "2024-03-05T09:10:00Z"
+  },
+  {
+    "id": "ord-003",
+    "customerId": "cust-003",
+    "customerName": "Carol White",
+    "customerEmail": "carol@example.com",
+    "items": [
+      { "productId": "prod-002", "name": "Samsung Galaxy S24 Ultra", "price": 1199, "quantity": 1 },
+      { "productId": "prod-006", "name": "Apple Watch Ultra 2", "price": 799, "quantity": 1 }
+    ],
+    "subtotal": 1998,
+    "tax": 99.90,
+    "total": 2097.90,
+    "status": "Shipped",
+    "createdAt": "2024-03-08T16:45:00Z"
+  }
+]

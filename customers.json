@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cust-001",
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "phone": "+1 (555) 100-2000",
+    "address": "123 Maple Street, New York, NY 10001",
+    "totalOrders": 1,
+    "totalSpent": 1414.35,
+    "createdAt": "2024-02-20T08:00:00Z"
+  },
+  {
+    "id": "cust-002",
+    "name": "Bob Martinez",
+    "email": "bob@example.com",
+    "phone": "+1 (555) 200-3000",
+    "address": "456 Oak Avenue, Los Angeles, CA 90001",
+    "totalOrders": 1,
+    "totalSpent": 1363.95,
+    "createdAt": "2024-03-01T08:00:00Z"
+  },
+  {
+    "id": "cust-003",
+    "name": "Carol White",
+    "email": "carol@example.com",
+    "phone": "+1 (555) 300-4000",
+    "address": "789 Pine Road, Chicago, IL 60601",
+    "totalOrders": 1,
+    "totalSpent": 2097.90,
+    "createdAt": "2024-03-05T08:00:00Z"
+  }
+]
